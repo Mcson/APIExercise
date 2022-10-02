@@ -1,0 +1,14 @@
+
+.header-row{
+    display: inline-flex;
+    width: 100%;
+    align-items: center;
+}
+
+.header-row .title{
+    width: 80%;
+}
+
+.header-row .back{
+    width: 20%;
+}
