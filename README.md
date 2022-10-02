@@ -1,2 +1,2 @@
-Simple clone
+Simple clone <br>
 Run php artisan serve
